@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="opencv-401">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../opencv-401.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jsoup-1.12.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../opencv-401.jar!/" />
+    </SOURCES>
+  </library>
+</component>
